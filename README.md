@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob Burns</h1>
-<h3 align="center">A passionate Software Engineer from Oregan</h3>
+<h3 align="center">A passionate Software Engineer from Salt Lacke City UT</h3>
 
 - 🔭 I’m currently working on **Myself**
 
