@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Javascript, Node, Express**
+- 🌱 I’m currently learning **Javascript, Node, Express, React**
 
 - 📫 How to reach me **Jacobnburns@gmail.com**
 
